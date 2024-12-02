@@ -1,0 +1,30 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
+<h1>App Error Management</h1>
+<a href="{% url 'admin:app-error_add' %}">Add New AppMessage</a>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>API Name</th>
+            <th>Error Message</th>
+            <th>Success Message</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for error in errors %}
+        <tr>
+            <td>{{ error.id }}</td>
+            <td>{{ error.apiname }}</td>
+            <td>{{ error.errormessage }}</td>
+            <td>{{ error.successmessage }}</td>
+            <td>
+                <a href="{% url 'admin:app-error_update' error.id %}">Update</a>
+                <a href="{% url 'admin:app-error_delete' error.id %}">Delete</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

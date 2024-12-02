@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "apiname": "Tblcompany table",
+        "errormessage": "Failed: Tblcompany ID Not Found",
+        "successmessage": "Success: Tblcompany Id Already Exists"
+    },
+    {
+        "id": 2,
+        "apiname": "TblproductCategory1 ",
+        "errormessage": "Failed: TblproductCategory1 not Exists",
+        "successmessage": "Failed: TblproductCategory1 Already Exists"
+    },
+    {
+        "id": 3,
+        "apiname": "TblproductCategory1 Create",
+        "errormessage": "Failed: TblproductCategory1 not Created",
+        "successmessage": "Success: TblproductCategory1 Created Successfully"
+    },
+    {
+        "id": 4,
+        "apiname": "TblproductCategory1 Update",
+        "errormessage": "Failed: TblproductCategory1 not Updated",
+        "successmessage": "Success: TblproductCategory1 Updated Successfully"
+    },
+    {
+        "id": 5,
+        "apiname": "TblproductCategory1 Delete",
+        "errormessage": "Failed: TblproductCategory1 not Delete",
+        "successmessage": "Success: TblproductCategory1 Deleted Successfully"
+    },
+    {
+        "id": 6,
+        "apiname": "TblproductCategory2 ",
+        "errormessage": "Failed: TblproductCategory2 not Found",
+        "successmessage": "Failed: TblproductCategory2 Already Exists"
+    },
+    {
+        "id": 7,
+        "apiname": "TblproductCategory2 Create",
+        "errormessage": "Failed: TblproductCategory2 not Created",
+        "successmessage": "Success: TblproductCategory2 Created Successfully"
+    },
+    {
+        "id": 8,
+        "apiname": "TblproductCategory2 Update",
+        "errormessage": "Failed: TblproductCategory2 not Updated",
+        "successmessage": "Success: TblproductCategory2 Updated Successfully"
+    },
+    {
+        "id": 9,
+        "apiname": "TblproductCategory2 Delete",
+        "errormessage": "Failed: TblproductCategory2 not Delete",
+        "successmessage": "Success: TblproductCategory2 Deleted Successfully"
+    },
+    {
+        "id": 10,
+        "apiname": "TblproductCategory3 ",
+        "errormessage": "Failed: TblproductCategory3 not Found",
+        "successmessage": "Failed: TblproductCategory3 Already Exists"
+    },
+    {
+        "id": 11,
+        "apiname": "TblproductCategory3 Create",
+        "errormessage": "Failed: TblproductCategory3 not Created",
+        "successmessage": "Success: TblproductCategory3 Created Successfully"
+    },
+    {
+        "id": 12,
+        "apiname": "TblproductCategory3 Update",
+        "errormessage": "Failed: TblproductCategory3 not Updated",
+        "successmessage": "Success: TblproductCategory3 Updated Successfully"
+    },
+    {
+        "id": 13,
+        "apiname": "TblproductCategory3 Delete",
+        "errormessage": "Failed: TblproductCategory3 not Delete",
+        "successmessage": "Success: TblproductCategory3 Deleted Successfully"
+    },
+    {
+        "id": 14,
+        "apiname": "TblproductStockingTypes",
+        "errormessage": "Failed: TblproductStockingTypes not Found",
+        "successmessage": "Failed: TblproductStockingTypes Already Exists"
+    },
+    {
+        "id": 15,
+        "apiname": "TblproductStockingTypes Create",
+        "errormessage": "Failed: TblproductStockingTypes not Created",
+        "successmessage": "Success: TblproductStockingTypes Created Successfully"
+    },
+    {
+        "id": 16,
+        "apiname": "TblproductStockingTypes Update",
+        "errormessage": "Failed: TblproductStockingTypes not Updated",
+        "successmessage": "Success: TblproductStockingTypes Updated Successfully"
+    },
+    {
+        "id": 17,
+        "apiname": "TblproductStockingTypes Delete",
+        "errormessage": "Failed: TblproductStockingTypes not Delete",
+        "successmessage": "Success: TblproductStockingTypes Deleted Successfully"
+    },
+    {
+        "id": 18,
+        "apiname": "TblproductClass",
+        "errormessage": "Failed: TblproductClass not Found",
+        "successmessage": "Failed: TblproductClass Already Exists"
+    },
+    {
+        "id": 19,
+        "apiname": "TblproductClass Create",
+        "errormessage": "Failed: TblproductClass not Created",
+        "successmessage": "Success: TblproductClass Created Successfully"
+    },
+    {
+        "id": 20,
+        "apiname": "TblproductClass Update",
+        "errormessage": "Failed: TblproductClass not Updated",
+        "successmessage": "Success: TblproductClass Updated Successfully"
+    },
+    {
+        "id": 21,
+        "apiname": "TblproductClass Delete",
+        "errormessage": "Failed: TblproductClass not Delete",
+        "successmessage": "Success: TblproductClass Deleted Successfully"
+    },
+    {
+        "id": 22,
+        "apiname": "TblproductColours",
+        "errormessage": "Failed: TblproductColours not Found",
+        "successmessage": "Failed: TblproductColours Already Exists"
+    },
+    {
+        "id": 23,
+        "apiname": "TblproductColours Create",
+        "errormessage": "Failed: TblproductColours not Created",
+        "successmessage": "Success: TblproductColours Created Successfully"
+    },
+    {
+        "id": 24,
+        "apiname": "TblproductColours Update",
+        "errormessage": "Failed: TblproductColours not Updated",
+        "successmessage": "Success: TblproductColours Updated Successfully"
+    },
+    {
+        "id": 25,
+        "apiname": "TblproductColours Delete",
+        "errormessage": "Failed: TblproductColours not Delete",
+        "successmessage": "Success: TblproductColours Deleted Successfully"
+    },
+    {
+        "id": 26,
+        "apiname": "TblproductCommoditycodes",
+        "errormessage": "Failed: TblproductCommoditycodes not Found",
+        "successmessage": "Failed: TblproductCommoditycodes Already Exists"
+    },
+    {
+        "id": 27,
+        "apiname": "TblproductCommoditycodes Create",
+        "errormessage": "Failed: TblproductCommoditycodes not Created",
+        "successmessage": "Success: TblproductCommoditycodes Created Successfully"
+    },
+    {
+        "id": 28,
+        "apiname": "TblproductCommoditycodes Update",
+        "errormessage": "Failed: TblproductCommoditycodes not Updated",
+        "successmessage": "Success: TblproductCommoditycodes Updated Successfully"
+    },
+    {
+        "id": 29,
+        "apiname": "TblproductCommoditycodes Delete",
+        "errormessage": "Failed: TblproductCommoditycodes not Delete",
+        "successmessage": "Success: TblproductCommoditycodes Deleted Successfully"
+    },
+    {
+        "id": 30,
+        "apiname": "TblproductFits",
+        "errormessage": "Failed: TblproductFits not Found",
+        "successmessage": "Failed: TblproductFits Already Exists"
+    },
+    {
+        "id": 31,
+        "apiname": "TblproductFits Create",
+        "errormessage": "Failed: TblproductFits not Created",
+        "successmessage": "Success: TblproductFits Created Successfully"
+    },
+    {
+        "id": 32,
+        "apiname": "TblproductFits Update",
+        "errormessage": "Failed: TblproductFits not Updated",
+        "successmessage": "Success: TblproductFits Updated Successfully"
+    },
+    {
+        "id": 33,
+        "apiname": "TblproductFits Delete",
+        "errormessage": "Failed: TblproductFits not Delete",
+        "successmessage": "Success: TblproductFits Deleted Successfully"
+    },
+    {
+        "id": 34,
+        "apiname": "TblproductObsoleteTypes",
+        "errormessage": "Failed: TblproductObsoleteTypes not Found",
+        "successmessage": "Failed: TblproductObsoleteTypes Already Exists"
+    },
+    {
+        "id": 35,
+        "apiname": "TblproductObsoleteTypes Create",
+        "errormessage": "Failed: TblproductObsoleteTypes not Created",
+        "successmessage": "Success: TblproductObsoleteTypes Created Successfully"
+    },
+    {
+        "id": 36,
+        "apiname": "TblproductObsoleteTypes Update",
+        "errormessage": "Failed: TblproductObsoleteTypes not Updated",
+        "successmessage": "Success: TblproductObsoleteTypes Updated Successfully"
+    },
+    {
+        "id": 37,
+        "apiname": "TblproductObsoleteTypes Delete",
+        "errormessage": "Failed: TblproductObsoleteTypes not Delete",
+        "successmessage": "Success: TblproductObsoleteTypes Deleted Successfully"
+    },
+    {
+        "id": 39,
+        "apiname": "TblproductParametersSettings",
+        "errormessage": "Failed: TblproductParametersSettings Id not Found",
+        "successmessage": "Failed: TblproductParametersSettings Id Already Exists"
+    },
+    {
+        "id": 40,
+        "apiname": "TblproductParametersSettings Create",
+        "errormessage": "Failed: TblproductParametersSettings not Created",
+        "successmessage": "Success: TblproductParametersSettings Created Successfully"
+    },
+    {
+        "id": 41,
+        "apiname": "TblproductParametersSettings Update",
+        "errormessage": "Failed: TblproductParametersSettings not Updated",
+        "successmessage": "Success: TblproductParametersSettings Updated Successfully"
+    },
+    {
+        "id": 42,
+        "apiname": "TblproductParametersSettings Delete",
+        "errormessage": "Failed: TblproductParametersSettings not Delete",
+        "successmessage": "Success: TblproductParametersSettings Deleted Successfully"
+    },
+    {
+        "id": 43,
+        "apiname": "TblproductParametertsSetvalues",
+        "errormessage": "Failed: TblproductParametertsSetvalues Id not Found",
+        "successmessage": "Failed: TblproductParametertsSetvalues Id Already Exists"
+    },
+    {
+        "id": 44,
+        "apiname": "TblproductParametertsSetvalues Create",
+        "errormessage": "Failed: TblproductParametertsSetvalues not Created",
+        "successmessage": "Success: TblproductParametertsSetvalues Created Successfully"
+    },
+    {
+        "id": 45,
+        "apiname": "TblproductParametertsSetvalues Update",
+        "errormessage": "Failed: TblproductParametertsSetvalues not Updated",
+        "successmessage": "Success: TblproductParametertsSetvalues Updated Successfully"
+    },
+    {
+        "id": 46,
+        "apiname": "TblproductParametertsSetvalues Delete",
+        "errormessage": "Failed: TblproductParametertsSetvalues not Delete",
+        "successmessage": "Success: TblproductParametertsSetvalues Deleted Successfully"
+    },
+    {
+        "id": 47,
+        "apiname": "TblproductPriceTypes",
+        "errormessage": "Failed: TblproductPriceTypes Price Id not Found",
+        "successmessage": "Failed: TblproductPriceTypes Price Id Already Exists"
+    },
+    {
+        "id": 48,
+        "apiname": "TblproductPriceTypes Create",
+        "errormessage": "Failed: TblproductPriceTypes not Created",
+        "successmessage": "Success: TblproductPriceTypes Created Successfully"
+    },
+    {
+        "id": 49,
+        "apiname": "TblproductPriceTypes Update",
+        "errormessage": "Failed: TblproductPriceTypes not Updated",
+        "successmessage": "Success: TblproductPriceTypes Updated Successfully"
+    },
+    {
+        "id": 50,
+        "apiname": "TblproductPriceTypes Delete",
+        "errormessage": "Failed: TblproductPriceTypes not Delete",
+        "successmessage": "Success: TblproductPriceTypes Deleted Successfully"
+    }
+]

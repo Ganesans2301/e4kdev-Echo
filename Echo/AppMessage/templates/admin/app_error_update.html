@@ -1,0 +1,15 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
+<h1>Update AppMessage</h1>
+<form method="post">
+    {% csrf_token %}
+    <input type="hidden" name="id" value="{{ entry.id }}">
+    <label for="apiname">API Name:</label>
+    <input type="text" name="apiname" id="apiname" value="{{ entry.apiname }}" required>
+    <label for="errormessage">Error Message:</label>
+    <input type="text" name="errormessage" id="errormessage" value="{{ entry.errormessage }}" required>
+    <label for="successmessage">Success Message:</label>
+    <input type="text" name="successmessage" id="successmessage" value="{{ entry.successmessage }}" required>
+    <button type="submit">Update</button>
+</form>
+{% endblock %}

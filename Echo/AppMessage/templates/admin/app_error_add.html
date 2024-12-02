@@ -1,0 +1,14 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
+<h1>Add New AppMessage</h1>
+<form method="post">
+    {% csrf_token %}
+    <label for="apiname">API Name:</label>
+    <input type="text" name="apiname" id="apiname" required>
+    <label for="errormessage">Error Message:</label>
+    <input type="text" name="errormessage" id="errormessage" required>
+    <label for="successmessage">Success Message:</label>
+    <input type="text" name="successmessage" id="successmessage" required>
+    <button type="submit">Add</button>
+</form>
+{% endblock %}
